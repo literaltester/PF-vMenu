@@ -1,3 +1,7 @@
+# Info: This version is modified to add features for BBRacing. All documentation below the line is origional and may no longer be accurate
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 # WARNING: This project is no longer deprecated, however, there are restrictions.
 Due to the [new FiveM](https://forum.cfx.re/t/community-pulse-october-2023-edition/5176467) [terms of service](https://forum.cfx.re/t/community-pulse-october-2023-edition/5176467), this project has been stopped previously. However, demand from people has been increased for seeing a better version of vMenu, so we will restart development. However, we are currently looking for new developers who want to be apart of the project. You can apply on [our Discord server](https://discord.gg/D7cVc8TzPN) if you're interested to join the team. This doesn't mean a return, however.
 
