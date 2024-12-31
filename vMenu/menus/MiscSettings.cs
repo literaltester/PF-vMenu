@@ -230,7 +230,7 @@ namespace vMenuClient.menus
             {
                 if (item == quitGame)
                 {
-                    QuitGame();
+                    CitizenFX.Core.Native.API.QuitGame();
                 }
                 else if (item == quitSession)
                 {
